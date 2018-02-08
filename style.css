@@ -8,10 +8,6 @@
     margin: 0;
 }
 
-h2 {
-    background-color: darkcyan;
-    padding: 20px;
-}
 
 li {
     padding-left: 20px;
@@ -19,5 +15,5 @@ li {
 }
 
 body {
-    background-image: url(C:\Users\Andres\UCSD\HomeWork\Bootstrap-Portfolio\assests\images\white_wall_full.png);
+    background-image: url('assests/images/white_wall_full.png');
 }
